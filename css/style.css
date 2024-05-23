@@ -1,0 +1,36 @@
+.navbar-brand.center {
+    position: absolute;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-variant: small-caps;
+    font-size: xxx-large;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.color
+{
+    
+    background-color: aliceblue;
+    border:2px solid black;
+    margin-top: 15%;
+    padding: 30px;
+    
+}
+
+.table
+{
+    margin-left: 3%;
+    margin-top: 5%;
+}
+
+.body1{
+    background-image: url(/img.png);
+    background-size: cover; 
+}
+
+#res,#res2
+{
+margin-top: 3vw;
+margin-left: 3vw;
+}
