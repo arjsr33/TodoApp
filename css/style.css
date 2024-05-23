@@ -25,7 +25,7 @@
 }
 
 .body1{
-    background-image: url('https://github.com/arjsr33/TodoApp/blob/main/img.png?raw=true');
+    background-image: url('../img.png');
     background-size: cover; 
 }
 
